@@ -1,0 +1,4 @@
+/*my whois plugin css start here*/
+#mywhois .mywhois{width: 100%;}
+.mywhois ul li{ margin:5px; list-style:none;}
+.mywhois ul li input[type=submit] { padding:10px;}
